@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=eswar-7116&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eswar-7116&layout=compact&theme=tokyonight)
+![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=eswar-7116&theme=tokyonight&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eswar-7116&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 💬 Ask Me Anything
 
