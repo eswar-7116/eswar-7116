@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 CS student at CVR College of Engineering, obsessed with what makes tech tick!
-- 🛠️ Creator of games (Flappy Bird 🐤) and full-stack apps (NexusChat 💬)
+- 🛠️ Love to build projects
 - 💻 Fluent in multiple tech stacks: MERN, Flask, Tailwind, Jetpack Compose
 - 🔌 Computer networking enthusiast and self-learning machine
 - 🎬 Movie lover - thrillers, feel-good films, and Marvel 🤖🕸️
