@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Eswar Dudi
 
 ## 👨‍💻 About Me
-- 💻 I build full-stack web apps with modern tools
-- 💬 Ask me about: Web Dev, Computer Networking, Android, Jetpack Compose
-- ⚡ Fun fact: I automate boring things with Python scripts 😄
+- 🎓 CS student at CVR College of Engineering, obsessed with what makes tech tick!
+- 🛠️ Creator of games (Flappy Bird 🐤) and full-stack apps (NexusChat 💬)
+- 💻 Fluent in multiple tech stacks: MERN, Flask, Tailwind, Jetpack Compose
+- 🔌 Computer networking enthusiast and self-learning machine
+- 🎬 Movie lover - thrillers, feel-good films, and Marvel 🤖🕸️
+- 🌱 Plant dad who keeps things chill, peaceful, and honest
+- ⚡ Fun fact: When I'm not automating boring tasks with Python and shell scripts, I'm relaxing by watching movies on OTT 🍿 or by watering plants 🪴
 
 ## 💬 Ask Me Anything
 [Click here to ask me anything](https://ask-me-anything-theta.vercel.app)
