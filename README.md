@@ -25,7 +25,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whoiseswar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eswar-dudi)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/eswardudi)
-[![Google Developer](https://img.shields.io/badge/G.dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/eswardudi)
 
 ## 🛠️ Tech Stack
 
