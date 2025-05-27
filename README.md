@@ -18,7 +18,7 @@
 
 ## 💬 Ask Me Anything
 
-![Ask Me Anything](https://img.shields.io/badge/Ask%20Me%20Anything-1E88E5?style=for-the-badge&logo=questdb&logoColor=white)
+[![Ask Me Anything](https://img.shields.io/badge/Ask%20Me%20Anything-1E88E5?style=for-the-badge&logo=questdb&logoColor=white)](https://ask-me-anything-theta.vercel.app)
 
 ## 📫 Connect With Me
 
