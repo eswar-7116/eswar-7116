@@ -5,11 +5,12 @@
 ## 👨‍💻 About Me
 
 - 🎓 CS student at CVR College of Engineering, obsessed with what makes tech tick!
+- 🤖 Currently learning how to use AI to build awesome tools
 - 🛠️ Love to build impactful projects
 - 💻 Fluent in multiple tech stacks: MERN, Flask, Tailwind, Jetpack Compose
 - 🔌 Computer networking enthusiast and self-learning machine
 - 🎬 Movie lover - thrillers, feel-good films, and Marvel 🤖🕸️
-- 🌱 Plant dad who keeps things chill, peaceful, and honest
+- 🌱 Proud plant dad who keeps things chill, peaceful, and honest
 - ⚡ Fun fact: When I'm not automating boring tasks with Python and shell scripts, I'm relaxing by watching movies on OTT 🍿 or by watering plants 🪴
 - 🧰 In my free time, I’m constantly tinkering and adding tools to help my personal JARVIS level up.
 
