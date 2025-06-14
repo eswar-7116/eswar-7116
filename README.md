@@ -6,6 +6,7 @@
 
 - 🎓 CS student at CVR College of Engineering, obsessed with what makes tech tick!
 - 🤖 Currently learning how to use AI to build awesome tools
+- Now working on: [AlterTone](https://altertone-two.vercel.app)
 - 🛠️ Love to build impactful projects
 - 💻 Fluent in multiple tech stacks: MERN, Flask, Tailwind, Jetpack Compose
 - 🔌 Computer networking enthusiast and self-learning machine
