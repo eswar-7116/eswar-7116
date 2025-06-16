@@ -8,7 +8,7 @@
 - 🤖 Currently learning how to use AI to build awesome tools
 - Now working on: [AlterTone](https://altertone-two.vercel.app)
 - 🛠️ Love to build impactful projects
-- 💻 Fluent in multiple tech stacks: MERN, Flask, Jetpack Compose
+- 💻 Fluent in multiple tech stacks: MERN, Flask, FastAPI, Jetpack Compose
 - 🔌 Computer networking enthusiast and self-learning machine
 - 🎬 Movie lover - thrillers, feel-good films, and Marvel 🤖🕸️
 - 🌱 Proud plant dad who keeps things chill, peaceful, and honest
