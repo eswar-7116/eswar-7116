@@ -53,3 +53,6 @@
 ### Android
 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-FF8A00?style=for-the-badge&logo=android&logoColor=white) ![OkHttp](https://img.shields.io/badge/OkHttp-3E4348?style=for-the-badge&logo=android&logoColor=white) ![Room](https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
