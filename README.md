@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eswar Dudi
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;Android+Developer;AI+Enthusiast+%7C+RAG+Builder;Systems+and+Networking+Explorer;Linux+Nerd)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;AI+Enthusiast+%7C+RAG+Builder;Systems+and+Networking+Explorer;Android+Developer;Aspiring+Software+Developer)
 
 ## 👨‍💻 About Me
 
