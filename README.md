@@ -18,9 +18,9 @@
 
 ![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=eswar-7116&theme=tokyonight&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eswar-7116&layout=compact&theme=tokyonight&hide_border=true)
 
-## 💬 Ask Me Anything
+## 👤 Portfolio
 
-[![Ask Me Anything](https://img.shields.io/badge/Ask%20Me%20Anything-1E88E5?style=for-the-badge&logo=questdb&logoColor=white)](https://ask-me-anything-theta.vercel.app)
+[![Eswar Dudi | Developer Portfolio](https://img.shields.io/badge/My%20Developer%20Portfolio-1E88E5?style=for-the-badge&logo=questdb&logoColor=white)](https://eswardudi.vercel.app)
 
 ## 📫 Connect With Me
 
