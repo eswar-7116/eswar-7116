@@ -2,6 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96FF&center=true&vCenter=true&width=900&size=32&lines=Computer+Science+Student;Full-Stack+%26+Android+Developer;ML+%26+Systems+Enthusiast;Aspiring+Software+Engineer)
 
+<!-- Y-Hype View Counter -->
+![](https://hit.yhype.me/github/profile?account_id=173598114)
+
 ## 👨‍💻 About Me
 
 - 🎓 CS student at CVR College of Engineering, obsessed with what makes tech tick!
