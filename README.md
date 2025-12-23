@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats-ruby-tau.vercel.app?user=eswar-7116&theme=tokyonight&hide_border=true) ![Top Languages](https://github-readme-stats-two-wine-66.vercel.app/api/top-langs/?username=eswar-7116&theme=tokyonight&layout=compact&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-ruby-tau.vercel.app?user=eswar-7116&theme=tokyonight&hide_border=true) ![Top Languages](https://github-readme-stats-two-wine-66.vercel.app/api/top-langs/?username=eswar-7116&theme=tokyonight&hide_border=true&layout=compact)
 ![GitHub Stats](https://github-readme-stats-two-wine-66.vercel.app/api?username=eswar-7116&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage&hide_border=true)
 
 ## 👤 Portfolio
