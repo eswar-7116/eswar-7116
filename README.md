@@ -106,6 +106,14 @@ Passionate about backend systems, systems programming, and AI
 
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eswar-7116&theme=react-dark" />
+</p>
+
+---
+
+## Random Quote
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
