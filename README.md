@@ -21,7 +21,7 @@ CS student @ CVR College of Engineering, Hyderabad
 Passionate about backend systems, systems programming, and AI
 ```
 
-- 🦫 Building things with **Go** — container runtimes, serverless runtimes, caching proxies
+- 🦫 Building things with **Go**: container runtimes, serverless runtimes, caching proxies&nbsp;<img src="./dancing-gopher.gif" width="32" align="center" />
 - 🌐 Full-stack developer across **MERN, Next.js, FastAPI, Flask**
 - 📱 Android apps with **Jetpack Compose + Kotlin**
 - 🤖 Exploring **ML, AI integrations & Prompt Engineering**
